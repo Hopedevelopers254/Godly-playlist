@@ -1,0 +1,29 @@
+html{
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+     background-attachment: fixed;
+}
+
+
+header nav ul{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+    gap: 4rem;
+
+}
+
+
+
+.contact{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+
+.contact img{
+    width: 2rem;
+    aspect-ratio: 1;
+}
